@@ -59,6 +59,12 @@ AGGREGATE FUNCTIONS : MAX,MIN,COUNT,SUM,AVG
 
 ---
 
+GROUP BY CLAUSE
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/01896972-3326-4c0a-899d-dd2b9590e92a" />
+
+---
+
+
 
 
 
