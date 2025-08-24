@@ -64,6 +64,12 @@ GROUP BY CLAUSE
 
 ---
 
+HAVING CLAUSE
+<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/73d3d3b6-c654-4ba0-ae57-6ed38899e968" />
+
+---
+
+
 
 
 
