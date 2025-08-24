@@ -38,6 +38,11 @@ Mera target hai **Backend Development + Web Development** ke liye SQL ko strong 
    - Stored Procedures
 
 ---
+LIMIT CLAUSE
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/beae8c7f-a613-4176-adf1-212553112881" />
+
+---
+
 
 
 
