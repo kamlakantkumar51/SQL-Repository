@@ -50,6 +50,19 @@ ORDER BY CLAUSE
 
 ---
 
+---
+AGGREGATE FUNCTIONS : MAX,MIN,COUNT,SUM,AVG
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/bced725a-4c28-439a-b33c-a3216d826feb" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/fbfe539c-f629-48e4-b210-d9a7049d084c" />
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/50a338f0-4fd5-4879-bb4d-5e9e6a8684b6" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/bde874f3-977b-4e49-bdd0-556c207977ec" />
+
+---
+
+
+
+
+
 
 
 
