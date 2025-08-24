@@ -70,6 +70,13 @@ HAVING CLAUSE
 
 ---
 
+---
+TRUNCATE
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/a06e535c-1123-492d-838e-85bb69b97c88" />
+
+---
+
+
 
 
 
