@@ -43,6 +43,14 @@ LIMIT CLAUSE
 
 ---
 
+---
+ORDER BY CLAUSE
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/dba8466f-772c-4513-bee9-9eed5aebe005" />
+
+
+---
+
+
 
 
 
